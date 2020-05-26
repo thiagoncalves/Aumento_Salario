@@ -10,16 +10,23 @@ namespace Aumento_Salario
     {
         static void Main(string[] args)
         {
-            #region Aumento_Salario
-
             double salario;
-            double valorAumento;
 
             Console.WriteLine("Escreva o salário do Colaborador: ");
-
             salario = Convert.ToDouble(Console.ReadLine());
+            
+            double valorAumento = PegarAumento(salario);
 
             Console.WriteLine("O seu salário antes do ajuste era: " + salario);
+            Console.WriteLine("O valor do aumento foi de: " + valorAumento);
+
+            Console.ReadLine();
+        }
+
+
+        public static double PegarAumento(double salario)
+        {
+            double valorAumento = 0;
 
             if (salario <= 280)
             {
@@ -53,11 +60,9 @@ namespace Aumento_Salario
                 Console.WriteLine("O valor do aumento foi: " + valorAumento);
             }
 
-            Console.WriteLine("O valor do aumento foi de: " + salario);
-
-            Console.ReadLine();
-
-            #endregion
+            return (valorAumento);
         }
+
     }
+
 }

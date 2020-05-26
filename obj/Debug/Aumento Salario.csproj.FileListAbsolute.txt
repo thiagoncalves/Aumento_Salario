@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\bin\Debug\Aumento Salario.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\bin\Debug\Aumento Salario.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\bin\Debug\Aumento Salario.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\obj\Debug\Aumento Salario.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\obj\Debug\Aumento Salario.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Aumento_Salario\obj\Debug\Aumento Salario.pdb
